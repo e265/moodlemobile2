@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" id="com.moodle.moodlemobile" version="3.4.2">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" id="com.moodle.moodlemobile" version="1.0">
   <name>e265</name>
   <description>
         E learning malawi
     </description>
-  <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+  <author href="http://e265.net" email="e265.net@gmail.com">
+        e265 team
     </author>
   <content src="index.html"/>
   <access origin="*"/>
